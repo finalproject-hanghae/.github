@@ -9,12 +9,21 @@
 | 인소현 | [@INSOCCI](https://github.com/INSOCCI) |![](https://img.shields.io/badge/-FE-blue)| 송주영 | [@ju0song](https://github.com/ju0song) |![](https://img.shields.io/badge/-BE-red)|
 | 탁형석 | [@TAK6337](https://github.com/TAK6337) |![](https://img.shields.io/badge/-FE-blue)| 윤혜림 | [@hryun11](https://github.com/hryun11) |![](https://img.shields.io/badge/-BE-red)|
 
+## TEAM
+- **Click to visit pages**
+
+[![](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/file/oMxNaH8BUxZyW7cd2BDQhr/%EC%8B%A4%EC%A0%84-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8SA-2%EC%A1%B0?node-id=0%3A1)
+[![](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/finalproject-hanghae)
+[![](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)](https://humane-spark-851.notion.site/2-e725f87df62d4636a752ec8f4fe311a7)
 
 ## FrontEnd
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
+![](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white)
 
-![](https://img.shields.io/badge/styledcomponents-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
+![](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
+![](https://img.shields.io/badge/styled%20components-DB7093.svg?&style=for-the-badge&logo=styled%20components&logoColor=white)
+![](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 ![](https://img.shields.io/badge/Burger%20King-D62300.svg?&style=for-the-badge&logo=Burger%20King&logoColor=white)
 
 ## BackEnd
