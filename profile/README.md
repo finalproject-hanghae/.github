@@ -57,12 +57,13 @@
 ![](https://img.shields.io/badge/Burger%20King-D62300.svg?&style=for-the-badge&logo=Burger%20King&logoColor=white)
 
 ### 기술 결정
-- **기술 결정 프로세스**
-    > 1. 프로젝트의 요구사항 파악
-    > 2. 요구사항을 충족하는 선택지 탐색
-    > 3. 선택지 중 팀원과의 논의 후 의사 결정
-    > 4. 얼마나 잘 알고 쓰는지에 대한 지속적 질문
-    > 5. 해당 선택지의 한계점 고찰
+**기술 결정 프로세스**<br/>
+
+> 1. 프로젝트의 요구사항 파악
+> 2. 요구사항을 충족하는 선택지 탐색
+> 3. 선택지 중 팀원과의 논의 후 **의사 결정**
+> 4. 얼마나 잘 알고 쓰는지에 대한 지속적 질문<br/>
+> 5. 해당 선택지의 한계점 고찰
 
 - **상태관리 (Redux vs Recoil vs Context)**
   - wiki 주소
@@ -72,8 +73,8 @@
 ### 트러블 슈팅
 - **문제 #0 : 이미지 리소스 관리 (이미지 최적화)**
   - [문제 #0 : 이미지 리소스 관리 Wiki](https://github.com/finalproject-hanghae/.github/wiki/%EB%AC%B8%EC%A0%9C-%230-:-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EA%B4%80%EB%A6%AC)
-- **문제 #1 : 변수 변경의 불편 (협업능률 및 유지보수)**
-  - wiki 주소
+- **문제 #1 : 변수 변경의 불편 (협업능률 및 유지보수) -> TypeScript**
+  - [문제 #1 : 변수 변경의 불편 Wiki](https://github.com/finalproject-hanghae/.github/wiki/%EB%AC%B8%EC%A0%9C-%231-:-%EB%B3%80%EC%88%98-%EB%B3%80%EA%B2%BD%EC%9D%98-%EB%B6%88%ED%8E%B8)
 
 ## BackEnd
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
