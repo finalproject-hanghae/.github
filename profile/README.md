@@ -71,14 +71,8 @@
 
 ### 트러블 슈팅
 - **문제 #0 : 이미지 리소스 관리 (이미지 최적화)**
-  - wiki 주소
+  - [문제 #0 : 이미지 리소스 관리 Wiki](https://github.com/finalproject-hanghae/.github/wiki/%EB%AC%B8%EC%A0%9C-%230-:-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EA%B4%80%EB%A6%AC)
 - **문제 #1 : 변수 변경의 불편 (협업능률 및 유지보수)**
-  - wiki 주소
-
-### 슈팅 결과
-- **이미지 스프라이트 적용 (이미지 최적화)**
-  - wiki 주소
-- **TypeScript 적용 (협업능률 개선 시도)**
   - wiki 주소
 
 ## BackEnd
