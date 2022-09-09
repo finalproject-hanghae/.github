@@ -1,4 +1,4 @@
-![](https://lh6.googleusercontent.com/tAc1AUaOr_vvrct-cxED6ouKPWsEj1wWhR-u45Gc4MbDreZAguikZqpLQDbenLlHOGpcseSwPP3heE0YzrZQlcojP6yE2h45i-iCjMT3ub7Z5ZSDMw5ytqM7xvBT_b33yw=w4996)
+[![](https://lh6.googleusercontent.com/tAc1AUaOr_vvrct-cxED6ouKPWsEj1wWhR-u45Gc4MbDreZAguikZqpLQDbenLlHOGpcseSwPP3heE0YzrZQlcojP6yE2h45i-iCjMT3ub7Z5ZSDMw5ytqM7xvBT_b33yw=w4996)](https://docs.google.com/forms/d/e/1FAIpQLScJdPn8S2gt6h3kHaHvV2mC-g9kR017yAT2kzWKLcVyQgaCPA/viewform)
 
 
 # 약해지지마
