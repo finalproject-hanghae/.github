@@ -66,7 +66,7 @@
 > 5. 해당 선택지의 한계점 고찰
 
 - **상태관리 (Redux vs Recoil vs Context)**
-  - wiki 주소
+  - [기술 결정 : 상태관리 Wiki](https://github.com/finalproject-hanghae/.github/wiki/%EA%B8%B0%EC%88%A0-%EA%B2%B0%EC%A0%95-:-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC)
 - **선제적 타입 선언 (ReScript vs TypeScript)**
   - wiki 주소
 
