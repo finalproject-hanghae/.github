@@ -67,8 +67,8 @@
 
 - **상태관리 (Redux vs Recoil vs Context)**
   - [기술 결정 : 상태관리 Wiki](https://github.com/finalproject-hanghae/.github/wiki/%EA%B8%B0%EC%88%A0-%EA%B2%B0%EC%A0%95-:-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC)
-- **선제적 타입 선언 (ReScript vs TypeScript)**
-  - wiki 주소
+- **선제적 타입 선언 (TypeScript)**
+  - [문제 #1 : 변수 변경의 불편 Wiki](https://github.com/finalproject-hanghae/.github/wiki/%EB%AC%B8%EC%A0%9C-%231-:-%EB%B3%80%EC%88%98-%EB%B3%80%EA%B2%BD%EC%9D%98-%EB%B6%88%ED%8E%B8)
 
 ### 트러블 슈팅
 - **문제 #0 : 이미지 리소스 관리 (이미지 최적화)**
