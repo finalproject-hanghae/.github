@@ -2,6 +2,10 @@
 
 
 # 약해지지마
+> [**노션 구경하기 - Notion**](https://humane-spark-851.notion.site/2-e725f87df62d4636a752ec8f4fe311a7)<br/>
+> [**서비스 사용하기 - dontbeweak.kr**](http://dontbeweak.kr)<br/><br/>
+> [**Front-End Repo.**](https://github.com/finalproject-hanghae/DontBeWeak-FE)<br/>
+> [**Back-End Repo.**](https://github.com/finalproject-hanghae/DontBeWeak-BE)
 
 ## 프로젝트 기간
 ### 2022년 8월 5일 - 22년 9월 16일
