@@ -45,7 +45,7 @@
   > 영양제.. 고양이 있어도 깜빡할래..?
 
 ### 서비스 아키텍처
-![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb60b4da2-7ad9-44b1-a8f2-ba6949892116%2FUntitled.png?table=block&id=6e4ade1b-1fff-4386-ab92-b84f262d98fc&spaceId=1be52488-8341-41f7-9e7a-1ca0cb106a74&width=2000&userId=fe00f85b-4d3a-4f47-b7b3-438729231f22&cache=v2)
+![](https://user-images.githubusercontent.com/107821879/190452120-eaa05477-abe2-4a47-98b3-a828faa96e20.png)
 
 ## TEAM
 
